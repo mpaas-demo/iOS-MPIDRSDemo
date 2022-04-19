@@ -1,0 +1,172 @@
+{
+    "word_list": [
+        {
+            "name": "是 的", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": -0.270, 
+            "subseg_threshold": -0.8, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "不 是 的", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": 101, 
+            "subseg_threshold": -0.4, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "确 认", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": -0.270, 
+            "subseg_threshold": -0.8, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "不 确 认", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": 101, 
+            "subseg_threshold": -0.4, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "同 意", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": -0.240, 
+            "subseg_threshold": -0.7, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "不 同 意", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": 101, 
+            "subseg_threshold": -0.4, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "清 楚", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": -0.248, 
+            "subseg_threshold": -0.7, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "不 清 楚", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": 101, 
+            "subseg_threshold": -0.4, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "知 道", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": -0.179, 
+            "subseg_threshold": -0.55, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "不 知 道", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": 101, 
+            "subseg_threshold": -0.4, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "不 明 白", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": 101, 
+            "subseg_threshold": -0.4, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "明 白", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": -0.350, 
+            "subseg_threshold": -0.9, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "不 了 解", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1": 101, 
+            "subseg_threshold": -0.4, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }, 
+        {
+            "name": "了 解", 
+            "lm_boost": 0.0, 
+            "am_boost": 0.0, 
+            "threshold1":-0.283, 
+            "subseg_threshold": -0.8, 
+            "each_subseg_max_dur": "0.91|0.91", 
+            "threshold2": -1.0, 
+            "type": "action", 
+            "is_main": false, 
+            "cc_name": "commcc"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+  "device_type":"phone",
+  "assets_version":"1.1.20190902",
+  "nui_config":{
+    "service_mode":"kModeFullCloud",
+    "log_level":"kLogLevelVerbose",
+    "enable_dialog":true
+  },
+  "nls_config":{
+    "debug_level":8,
+    "sr_format":"opus",
+    "sample_rate":16000,
+    "dns_timeout":5000,
+    "enable_intermediate_result":true,
+    "enable_sentence_detection":true,
+    "enable_punctuation_prediction":true,
+    "enable_inverse_text_normalization":true,
+    "enable_voice_detection":true,
+    "enable_decoder_vad":true,
+    "enable_word_level_result":true,
+    "vocab_default_weight":2
+  },
+  "audio_config":{
+    "debug":"none",
+    "default_audio":{
+      "name":"default16kmono16bit",
+      "id":0,
+      "mic":{
+        "name":"default16kmono16bit",
+        "debug_heap_pollution":false,
+        "read_cnt":0,
+        "sample_rate":16000,
+        "bits_per_sample":16,
+        "channels":1,
+        "recording_interval":10,
+        "cei_frame_time_len":20,
+        "channel_mask":"kAMChannalMaskNone",
+        "format_type":"kAMDataFormatPcmInterleaved",
+        "endianness":"kAMByteOrderLittleEndian"
+      }
+    }
+  }
+}
+

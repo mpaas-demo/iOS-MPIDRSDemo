@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "63113678-D182-4398-994B-9BB12A09C7E2"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAE2467C-5127-4DCE-A686-5813B41B830F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSChargeManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "-didStatisticPoint:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7341F858-224D-432F-A3E4-615AC9A76F93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSChargeManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "-begin"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13DB2481-8C10-4A2B-8A38-3BB8A62D78AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../Desktop/StatisticManager/IDRSStatisticCache.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-addSectionInfo:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AFAA8D6-11CC-400B-A30F-4033E91E081B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../Desktop/StatisticManager/IDRSChargeManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "-didUploadSection:success:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EDCE7C6-F4FA-41BA-B98F-518CB66D9D5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../Desktop/StatisticManager/IDRSChargeManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "-didStatisticPoint:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "011C820B-DB27-48A8-83C6-023C4ACC067E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../Desktop/StatisticManager/IDRSChargeManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "-didTriggerUpload"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF1CBC9D-2DFC-4BD6-8998-AD1AF0611879"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../Desktop/StatisticManager/IDRSChargeManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "-begin"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DCB059A-8E0A-494E-B054-4BB746CEDDC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticSectionInfo.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "-fixSectionIfNeededWithInterval:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6DCB059A-8E0A-494E-B054-4BB746CEDDC1 - f783fcacaebe3b3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticSectionInfo canUpdateWithSectionInfo:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticSectionInfo.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6DCB059A-8E0A-494E-B054-4BB746CEDDC1 - 3fcc465ae0f9a0ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticSectionInfo fixSectionIfNeeded]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticSectionInfo.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "536">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E98685D-54F9-4218-8826-602168C3E1AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSDemo/IDRSDemo/Remote_detection/ProRemoteViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
+            landmarkName = "-didConnectionStatusChangedTo:forFeed:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1D28051-EF5C-447D-B9FC-2EA4C9F21C60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSDemo/IDRSDemo/Remote_detection/ProRemoteViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "-didReceiveRoomInfo:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81815119-ED0D-450E-BC78-DB3D0A4F729F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSDemo/IDRSDemo/Remote_detection/ProRemoteViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "-didJoinroomSuccess"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1BAF933-3DE6-43D2-B969-ED420A41427E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSDemo/IDRSDemo/Remote_detection/ProRemoteViewController.mm"
+            startingColumnNumber = "5"
+            endingColumnNumber = "5"
+            startingLineNumber = "925"
+            endingLineNumber = "925"
+            landmarkName = "-didsendMessage:isOn:type:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B79B3ADE-2376-4087-9DA8-01D2961DDDF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSDemo/IDRSDemo/Remote_detection/ProRemoteViewController.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "ProRemoteViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C3757FF-100F-48DA-826F-6A3FA7F1D83A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/IDRSSDK.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "+initWithRecordType:userId:appId:packageName:AK:SK:success:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1438E388-ED34-4D52-AD05-18CFAB8A03BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSDemo/IDRSDemo/Remote_detection/ProRemoteViewController.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "-initRTCSDK"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E13110DF-FF23-468A-8C06-4EFF3FDBA42B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSDemo/IDRSDemo/Remote_detection/ProRemoteViewController.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "-initRTCSDK"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF62FD02-7D68-4764-85FC-5E6B8D4683F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/IDRSSDK.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "+initWithRecordType:userId:appId:packageName:AK:SK:success:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4832407-FD4C-41E3-A03F-CDB1B2007982"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSChargeManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "-didTriggerUpload"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A98E9512-9BCA-4D58-9526-0F77DE3174FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSChargeManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "-didStatisticPoint:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C0B387B-BECE-4821-AB3C-476FE09A8322"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticUploadManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "-upload:complete:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B739E6F9-8EEC-42EB-8671-459BF2D83875"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticUploadManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "-upload:complete:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B739E6F9-8EEC-42EB-8671-459BF2D83875 - f081fcf1a174d26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticUploadManager upload:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticUploadManager.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+               <Location
+                  uuid = "B739E6F9-8EEC-42EB-8671-459BF2D83875 - 722c2d911fb8571b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticUploadManager upload:complete:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticUploadManager.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C79B66D-676B-4861-9208-21419DA824CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticCache.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "-removeSectionInfoWithTag:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C79B66D-676B-4861-9208-21419DA824CF - 3da860df60303f5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticCache removeSectionInfoWithTag:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticCache.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "6C79B66D-676B-4861-9208-21419DA824CF - 3da860df60303fd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticCache removeSectionInfoWithTag:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticCache.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30D2DC61-59BE-4E5C-9FB9-27C7103EAB42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticCache.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "-removeSectionInfoWithTag:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "30D2DC61-59BE-4E5C-9FB9-27C7103EAB42 - 3da860df60303fd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticCache removeSectionInfoWithTag:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticCache.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "30D2DC61-59BE-4E5C-9FB9-27C7103EAB42 - 3da860df60303e56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticCache removeSectionInfoWithTag:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticCache.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A665DF46-9B47-4791-8236-32F6026FE9E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticUploadManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "-upload:complete:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A665DF46-9B47-4791-8236-32F6026FE9E4 - 80d0b5a3e383ce0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37-[IDRSStatisticUploadManager upload:]_block_invoke"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticUploadManager.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "A665DF46-9B47-4791-8236-32F6026FE9E4 - 722c2d911fb8510b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticUploadManager upload:complete:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticUploadManager.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "1468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC49C6E4-32CC-4A2C-BD98-3E6A5E91353B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticUploadManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "IDRSStatisticUploadManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CC49C6E4-32CC-4A2C-BD98-3E6A5E91353B - 8b2b0afbfd53b24c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticUploadManager didUploadSection:status:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticUploadManager.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "CC49C6E4-32CC-4A2C-BD98-3E6A5E91353B - 8b2b0afbfd53b3d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSStatisticUploadManager didUploadSection:status:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticUploadManager.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9984169F-9C06-41BF-85F4-8362928127BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSStatisticCache.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "-dealloc"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FBAA6F4-3BF0-461B-8227-86617B1FA912"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSChargeManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "-dealloc"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8FBAA6F4-3BF0-461B-8227-86617B1FA912 - ff610bd0fe92b176"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSChargeManager init]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSChargeManager.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "8FBAA6F4-3BF0-461B-8227-86617B1FA912 - a29e90f40de44db2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[IDRSChargeManager dealloc]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/StatisticManager/IDRSChargeManager.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10258748-56AA-4565-B14D-05031EC12967"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/StatisticManager/IDRSChargeManager.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "-uploadCachedSectionIfNeeded"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACCB25FE-7F19-40D9-BB94-8C8ECA84A19C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "+generateRequestWithMethod:url:body:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACCB25FE-7F19-40D9-BB94-8C8ECA84A19C - 34cc180b61faeb03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[SDKNetworking generateRequestWithMethod:url:body:success:failure:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "960">
+               </Location>
+               <Location
+                  uuid = "ACCB25FE-7F19-40D9-BB94-8C8ECA84A19C - 34cc180b61faeb20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[SDKNetworking generateRequestWithMethod:url:body:success:failure:]"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "960">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68F5363C-F980-46E0-ACD6-623C94FBAA00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "+generateRequestWithMethod:url:body:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68F5363C-F980-46E0-ACD6-623C94FBAA00 - cc27b6cc946a9243"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__68+[SDKNetworking generateRequestWithMethod:url:body:success:failure:]_block_invoke"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "68F5363C-F980-46E0-ACD6-623C94FBAA00 - cc27b6cc946a921c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__68+[SDKNetworking generateRequestWithMethod:url:body:success:failure:]_block_invoke"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "68F5363C-F980-46E0-ACD6-623C94FBAA00 - cc27b6cc946a921c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__68+[SDKNetworking generateRequestWithMethod:url:body:success:failure:]_block_invoke"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "779B67BF-444A-4359-8EEC-8D1FD2B0FE32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "+generateRequestWithMethod:url:body:success:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "779B67BF-444A-4359-8EEC-8D1FD2B0FE32 - cc27b6cc946a9581"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__68+[SDKNetworking generateRequestWithMethod:url:body:success:failure:]_block_invoke"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "779B67BF-444A-4359-8EEC-8D1FD2B0FE32 - cc27b6cc946a9262"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__68+[SDKNetworking generateRequestWithMethod:url:body:success:failure:]_block_invoke"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "779B67BF-444A-4359-8EEC-8D1FD2B0FE32 - cc27b6cc946a9262"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__68+[SDKNetworking generateRequestWithMethod:url:body:success:failure:]_block_invoke"
+                  moduleName = "IDRSSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaochangying/Documents/ShuangLu/FaceSDK/idrs/sourceCode/IDRSSDK/IDRSSDK/network/SDKNetworking.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDCFA1FB-3ED8-410B-A711-8F706977F4E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSSDK/IDRSSDK.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2257"
+            endingLineNumber = "2257"
+            landmarkName = "+rtcGetWaterMark:waterMarkHandler:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "67C01B8D-DE2B-4531-BC44-ACB3894BB444"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "927BAF95-152D-4F80-8956-D778BD25215C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSDemo/IDRSDemo/Location_detection/FaceSDKDemoViewController.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "512"
+            endingLineNumber = "512"
+            landmarkName = "-captureOutput:didOutputSampleBuffer:fromConnection:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B6BCEAB-4447-46BC-969E-92B4ABAF9FF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSDemo/IDRSDemo/Location_detection/FaceSDKDemoViewController.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "518"
+            endingLineNumber = "518"
+            landmarkName = "-captureOutput:didOutputSampleBuffer:fromConnection:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "203889F1-C603-415F-9691-773E3BC14757"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IDRSSDK/IDRSDemo/IDRSDemo/Location_detection/FaceSDKDemoViewController.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "565"
+            endingLineNumber = "565"
+            landmarkName = "-captureOutput:didOutputSampleBuffer:fromConnection:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
