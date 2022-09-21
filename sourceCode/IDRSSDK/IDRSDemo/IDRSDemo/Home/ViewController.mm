@@ -26,7 +26,7 @@
 	_tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
 	[self.view addSubview:_tableView];
     
-    _dataList = @[@{@"title":@"远程双录SDKDemo", @"page":@"ProRemoteViewController"},@{@"title":@"双录原子能力", @"page":@"FaceSDKDemoViewController"}];
+    _dataList = @[@{@"title":@"远程双录SDKDemo", @"page":@"ProRemoteViewController"},@{@"title":@"双录原子能力", @"page":@"FaceSDKDemoViewController"},@{@"title":@"本地流程SDKDemo", @"page":@"MPProDemoViewController"}];
 
 }
 

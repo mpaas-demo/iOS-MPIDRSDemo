@@ -9,6 +9,14 @@
 /* Begin PBXBuildFile section */
 		3E5F9130261C025A00C75502 /* 闪退.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F912F261C025A00C75502 /* 闪退.txt */; };
 		3E5F9146261C4C1100C75502 /* 测试文本.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3E5F9145261C4C1100C75502 /* 测试文本.txt */; };
+		5D05081828D9977B00EE2418 /* MPIDRSProcess.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D05081728D9977B00EE2418 /* MPIDRSProcess.framework */; };
+		5D05082228D99B6E00EE2418 /* MPProDemoViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5D05081D28D99B6D00EE2418 /* MPProDemoViewController.mm */; };
+		5D05082328D99B6E00EE2418 /* MProXLMaskView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D05081E28D99B6D00EE2418 /* MProXLMaskView.m */; };
+		5D05082428D99B6E00EE2418 /* MProScollLabelView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D05081F28D99B6D00EE2418 /* MProScollLabelView.m */; };
+		5D05082528D99B6E00EE2418 /* MProXLScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D05082128D99B6D00EE2418 /* MProXLScreen.m */; };
+		5D05082B28D99C4C00EE2418 /* MProHandDetectView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D05082728D99C4C00EE2418 /* MProHandDetectView.m */; };
+		5D05082C28D99C4C00EE2418 /* MProFaceDetectView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D05082A28D99C4C00EE2418 /* MProFaceDetectView.m */; };
+		5D05085428D9AC7000EE2418 /* UINavigationController+add.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D05085328D9AC7000EE2418 /* UINavigationController+add.m */; };
 		5D68EFEA278BCB3400CAEE6B /* MPDrawView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D68EFE5278BCB3400CAEE6B /* MPDrawView.m */; };
 		5D68EFFC278BCF1C00CAEE6B /* MPButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D68EFFB278BCF1B00CAEE6B /* MPButtonView.m */; };
 		5DC84739278F5DCF00C2532A /* ViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 5DC84737278F5DCF00C2532A /* ViewController.mm */; };
@@ -75,6 +83,21 @@
 /* Begin PBXFileReference section */
 		3E5F912F261C025A00C75502 /* 闪退.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "闪退.txt"; sourceTree = "<group>"; };
 		3E5F9145261C4C1100C75502 /* 测试文本.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "测试文本.txt"; sourceTree = "<group>"; wrapsLines = 1; };
+		5D05081728D9977B00EE2418 /* MPIDRSProcess.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MPIDRSProcess.framework; sourceTree = "<group>"; };
+		5D05081A28D99B6D00EE2418 /* MProScollLabelView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MProScollLabelView.h; sourceTree = "<group>"; };
+		5D05081B28D99B6D00EE2418 /* MProXLMaskView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MProXLMaskView.h; sourceTree = "<group>"; };
+		5D05081C28D99B6D00EE2418 /* MProXLScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MProXLScreen.h; sourceTree = "<group>"; };
+		5D05081D28D99B6D00EE2418 /* MPProDemoViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = MPProDemoViewController.mm; sourceTree = "<group>"; };
+		5D05081E28D99B6D00EE2418 /* MProXLMaskView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MProXLMaskView.m; sourceTree = "<group>"; };
+		5D05081F28D99B6D00EE2418 /* MProScollLabelView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MProScollLabelView.m; sourceTree = "<group>"; };
+		5D05082028D99B6D00EE2418 /* MPProDemoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPProDemoViewController.h; sourceTree = "<group>"; };
+		5D05082128D99B6D00EE2418 /* MProXLScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MProXLScreen.m; sourceTree = "<group>"; };
+		5D05082728D99C4C00EE2418 /* MProHandDetectView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MProHandDetectView.m; sourceTree = "<group>"; };
+		5D05082828D99C4C00EE2418 /* MProFaceDetectView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MProFaceDetectView.h; sourceTree = "<group>"; };
+		5D05082928D99C4C00EE2418 /* MProHandDetectView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MProHandDetectView.h; sourceTree = "<group>"; };
+		5D05082A28D99C4C00EE2418 /* MProFaceDetectView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MProFaceDetectView.m; sourceTree = "<group>"; };
+		5D05085228D9AC7000EE2418 /* UINavigationController+add.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+add.h"; sourceTree = "<group>"; };
+		5D05085328D9AC7000EE2418 /* UINavigationController+add.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+add.m"; sourceTree = "<group>"; };
 		5D68EFE4278BCB3400CAEE6B /* MPDrawView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPDrawView.h; sourceTree = "<group>"; };
 		5D68EFE5278BCB3400CAEE6B /* MPDrawView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPDrawView.m; sourceTree = "<group>"; };
 		5D68EFFA278BCF1B00CAEE6B /* MPButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPButtonView.h; sourceTree = "<group>"; };
@@ -143,7 +166,6 @@
 		F80774952487664700D4900D /* IDRSDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IDRSDemoUITests.m; sourceTree = "<group>"; };
 		F80774972487664700D4900D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F807756A2487763400D4900D /* ReplayKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReplayKit.framework; path = System/Library/Frameworks/ReplayKit.framework; sourceTree = SDKROOT; };
-		F80775A4248778BE00D4900D /* IDRSSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = IDRSSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F80775BA2487799300D4900D /* VideoBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoBaseViewController.m; sourceTree = "<group>"; };
 		F80775BB2487799300D4900D /* VideoBaseDetectView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoBaseDetectView.m; sourceTree = "<group>"; };
 		F80775BC2487799300D4900D /* VideoBaseDetectView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoBaseDetectView.h; sourceTree = "<group>"; };
@@ -166,6 +188,7 @@
 				70A461B22787F2DC00B656D3 /* APMLogging.framework in Frameworks */,
 				70A461AE2787F2DC00B656D3 /* APProtocolBuffers.framework in Frameworks */,
 				70A461A92787F2DC00B656D3 /* APMUtils.framework in Frameworks */,
+				5D05081828D9977B00EE2418 /* MPIDRSProcess.framework in Frameworks */,
 				70A461AA2787F2DC00B656D3 /* APRemoteLogging.framework in Frameworks */,
 				70A461AD2787F2DC00B656D3 /* UTDID.framework in Frameworks */,
 				70A461B12787F2DC00B656D3 /* APLog.framework in Frameworks */,
@@ -178,6 +201,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5D05081928D99B6D00EE2418 /* Local_detection2 */ = {
+			isa = PBXGroup;
+			children = (
+				5D05082028D99B6D00EE2418 /* MPProDemoViewController.h */,
+				5D05081D28D99B6D00EE2418 /* MPProDemoViewController.mm */,
+				5D05081A28D99B6D00EE2418 /* MProScollLabelView.h */,
+				5D05081F28D99B6D00EE2418 /* MProScollLabelView.m */,
+				5D05081B28D99B6D00EE2418 /* MProXLMaskView.h */,
+				5D05081E28D99B6D00EE2418 /* MProXLMaskView.m */,
+				5D05081C28D99B6D00EE2418 /* MProXLScreen.h */,
+				5D05082128D99B6D00EE2418 /* MProXLScreen.m */,
+			);
+			path = Local_detection2;
+			sourceTree = "<group>";
+		};
+		5D05082628D99C4C00EE2418 /* ViewUtils2 */ = {
+			isa = PBXGroup;
+			children = (
+				5D05082728D99C4C00EE2418 /* MProHandDetectView.m */,
+				5D05082828D99C4C00EE2418 /* MProFaceDetectView.h */,
+				5D05082928D99C4C00EE2418 /* MProHandDetectView.h */,
+				5D05082A28D99C4C00EE2418 /* MProFaceDetectView.m */,
+			);
+			path = ViewUtils2;
+			sourceTree = "<group>";
+		};
 		5D68EFD42787ECFE00CAEE6B /* Home */ = {
 			isa = PBXGroup;
 			children = (
@@ -185,6 +234,8 @@
 				5DC84738278F5DCF00C2532A /* DemoTableViewCell.m */,
 				5DC84735278F5DCF00C2532A /* ViewController.h */,
 				5DC84737278F5DCF00C2532A /* ViewController.mm */,
+				5D05085228D9AC7000EE2418 /* UINavigationController+add.h */,
+				5D05085328D9AC7000EE2418 /* UINavigationController+add.m */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -269,8 +320,8 @@
 		70A4618F2787F2DC00B656D3 /* Remote_detection */ = {
 			isa = PBXGroup;
 			children = (
-				70062B4A27EC78A700B658F4 /* ProRemoteViewController.mm */,
 				70062B4827EC774500B658F4 /* ProRemoteViewController.h */,
+				70062B4A27EC78A700B658F4 /* ProRemoteViewController.mm */,
 				70A461962787F2DC00B656D3 /* UIView+ARTVCToast.h */,
 				70A461922787F2DC00B656D3 /* UIView+ARTVCToast.m */,
 				5D68EFF0278BCB8800CAEE6B /* Utils */,
@@ -286,6 +337,7 @@
 				706A2B19280E6A1E004EC340 /* MPIDRSSDK.framework */,
 				70A461992787F2DC00B656D3 /* ARTVC.framework */,
 				70A4619A2787F2DC00B656D3 /* APMUtils.framework */,
+				5D05081728D9977B00EE2418 /* MPIDRSProcess.framework */,
 				70A4619B2787F2DC00B656D3 /* APRemoteLogging.framework */,
 				70A4619C2787F2DC00B656D3 /* mPaas.framework */,
 				70A4619D2787F2DC00B656D3 /* APMobileFramework.framework */,
@@ -328,8 +380,10 @@
 				F80774722487664600D4900D /* AppDelegate.m */,
 				5DC84759278F5E4E00C2532A /* Setting */,
 				5D68EFD42787ECFE00CAEE6B /* Home */,
+				5D05081928D99B6D00EE2418 /* Local_detection2 */,
 				5D68EFD52787ED1200CAEE6B /* Location_detection */,
 				5D68EFD62787EF6700CAEE6B /* ViewUtils */,
+				5D05082628D99C4C00EE2418 /* ViewUtils2 */,
 				5D68EFD72787EFAC00CAEE6B /* Tool */,
 				3E5F9145261C4C1100C75502 /* 测试文本.txt */,
 				3E5F912F261C025A00C75502 /* 闪退.txt */,
@@ -369,7 +423,6 @@
 				70A461B62787F32B00B656D3 /* CFNetwork.framework */,
 				70A461B42787F32400B656D3 /* SystemConfiguration.framework */,
 				F807756A2487763400D4900D /* ReplayKit.framework */,
-				F80775A4248778BE00D4900D /* IDRSSDK.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -423,7 +476,7 @@
 		F80774662487664600D4900D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1000;
+				LastUpgradeCheck = 1400;
 				ORGANIZATIONNAME = cuixling;
 				TargetAttributes = {
 					F807746D2487664600D4900D = {
@@ -475,24 +528,31 @@
 				5DC84741278F5DE500C2532A /* FaceSDKDemoViewController.mm in Sources */,
 				5D68EFEA278BCB3400CAEE6B /* MPDrawView.m in Sources */,
 				5DC84739278F5DCF00C2532A /* ViewController.mm in Sources */,
+				5D05082228D99B6E00EE2418 /* MPProDemoViewController.mm in Sources */,
 				5DC84751278F5E0D00C2532A /* MPResample.cpp in Sources */,
 				5DC84748278F5DFB00C2532A /* FaceDetectView.m in Sources */,
 				5DC8475F278F5E4E00C2532A /* DemoSettingVC.m in Sources */,
 				5D68EFFC278BCF1C00CAEE6B /* MPButtonView.m in Sources */,
+				5D05085428D9AC7000EE2418 /* UINavigationController+add.m in Sources */,
 				5DC84742278F5DE500C2532A /* XLScreen.m in Sources */,
+				5D05082328D99B6E00EE2418 /* MProXLMaskView.m in Sources */,
 				5DC84752278F5E0D00C2532A /* IDRSSDK+IDRSDemoStatisticSetting.m in Sources */,
 				5DC84749278F5DFB00C2532A /* HandDetectView.m in Sources */,
 				F80774812487664700D4900D /* main.m in Sources */,
 				5DC8473A278F5DCF00C2532A /* DemoTableViewCell.m in Sources */,
+				5D05082428D99B6E00EE2418 /* MProScollLabelView.m in Sources */,
 				5DC84757278F5E2D00C2532A /* ProRemoteCell.m in Sources */,
 				70062B4B27EC78A700B658F4 /* ProRemoteViewController.mm in Sources */,
 				5DC84750278F5E0D00C2532A /* FaceDetectUtil.m in Sources */,
 				5DC8475E278F5E4E00C2532A /* DemoSetting.m in Sources */,
+				5D05082B28D99C4C00EE2418 /* MProHandDetectView.m in Sources */,
 				F80775BF2487799300D4900D /* VideoBaseDetectView.m in Sources */,
+				5D05082528D99B6E00EE2418 /* MProXLScreen.m in Sources */,
 				F80775BE2487799300D4900D /* VideoBaseViewController.m in Sources */,
 				70A461A52787F2DC00B656D3 /* UIView+ARTVCToast.m in Sources */,
 				5DC84758278F5E2D00C2532A /* ARTVCRenderUnit.m in Sources */,
 				F80774732487664600D4900D /* AppDelegate.m in Sources */,
+				5D05082C28D99C4C00EE2418 /* MProFaceDetectView.m in Sources */,
 				5DC84743278F5DE500C2532A /* scollLabelView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -545,6 +605,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -604,6 +665,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
